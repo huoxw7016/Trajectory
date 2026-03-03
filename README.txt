@@ -55,5 +55,10 @@ Below is an overview of the contents of each folder.
 
    This folder contains the scripts used to generate the key figures and tables for the analysis. The visualizations and tabular summaries are critical for presenting the findings in the paper.
 
+4. 中文注释版脚本 Folder
+
+   This folder contains Chinese-annotated walkthrough scripts for all original scripts in DataPreparation, MainAnalysis, Figures, and Tables.  
+   每个注释脚本包含：开头综合概括、输入输出说明、关键统计方法、代码逻辑步骤、结尾总结，以及跨脚本关联总览（00_脚本关联总览.R）。
+
 License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
